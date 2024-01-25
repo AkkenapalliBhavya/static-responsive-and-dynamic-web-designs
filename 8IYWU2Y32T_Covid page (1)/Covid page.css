@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background1 {
+    background-color: white;
+    padding: 10px;
+    border-color: blue;
+    margin: blue;
+}
+
+.h1 {
+    font-size: 15px;
+    font-family: "roboto";
+    color: #323f4b;
+    padding: 10px;
+}
+
+.button {
+    border-radius: 10px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "roboto";
+    margin: 10px;
+    background-color: #0967d2;
+    border-width: 0px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image4 {
+    width: 80px;
+    height: 80px;
+}
+
+.card-container {
+    background-color: #0967d219;
+    border-radius: 10px;
+    margin: 10px;
+    width: 450px;
+
+    padding: 10px;
+}
+
+.head {
+    font-size: 16px;
+    font-family: "roboto";
+    color: #323f4b;
+
+}
+
+.p {
+    font-size: 13px;
+    color: #707070;
+    font-family: "roboto";
+
+}
+
+.img1 {
+    padding: 15px;
+    width: 70px;
+}
+
+.head2 {
+    font-weight: 500;
+    color: #323f4b;
+    padding: 10px;
+}
+
+.background-head {
+    background-color: white;
+}
+
+.background2 {
+    background-color: #3ebd93;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.p2 {
+    font-size: 12px;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.image1 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.background3 {
+    background-color: #e668a7;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.background4 {
+    background-color: #a368fc;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.p3 {
+    font-size: 12px;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 16px;
+}
+
+.background-bottom {
+    background-color: #e12d3919;
+    width: 450px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.heading {
+    font-size: 15px;
+    color: #323f4b;
+    padding-top: 10px;
+}
+
+.paragraph {
+    font-size: 13px;
+    color: #707070;
+    font-family: "roboto";
+}
+
+.button1 {
+    border-radius: 10px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.image3 {
+    padding: 10px;
+}
