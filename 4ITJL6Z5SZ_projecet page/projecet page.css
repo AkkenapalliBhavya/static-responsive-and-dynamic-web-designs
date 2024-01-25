@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    width: 200px;
+    height: 150px;
+}
+
+.spanE {
+    color: blue;
+}
+
+.align {
+    text-align: center;
+}
+
+.h1 {
+    color: #183b56;
+    font-size: 20px;
+    font-family: "bree serif";
+}
+
+.p1 {
+    font-size: 12px;
+    color: #616e7c;
+    font-family: "bree serif";
+    padding: 10px;
+}
+
+.imgset {
+    width: 150px;
+    height: 80px;
+    margin: 5px;
+}
+
+.imgt {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 110vh;
+}
+
+.text-container {
+    background-color: #ffffff;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.h1 {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.p {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.button1 {
+    color: #171f46;
+    font-family: "roboto";
+    background-color: #5752ab;
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "Bree Serif";
+}
+
+.button2 {
+    color: #5752ab;
+    background-color: #ffffff;
+    font-family: "roboto";
+    border-color: #d7dfe9;
+    border-radius: 5px;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "Roboto";
+    margin-right: 7px;
+    margin-left: 5px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.imgm {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.c {
+    background-color: #f6c56e;
+    color: #323f4b;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.h1 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+.padding1 {
+    padding-left: 25px;
+}
+
+.p {
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.button {
+    border-width: 0px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.imgn {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+    margin: 20px;
+}
+
+.text-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.p1 {
+    font-size: 12px;
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.h {
+    font-size: 17px;
+    font-family: "roboto";
+    color: #323f4b;
+}
+
+.p2 {
+    font-size: 10px;
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.button {
+    background-color: #323f4b;
+    font-family: "Roboto";
+    color: #ffffff;
+    border-radius: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+    margin: 10px;
+}
